@@ -1,0 +1,2 @@
+Stormy|20|Sword|10|2|Mace|12|3
+Starry|25|Morning Star|13|4|Pollaxe|9|1
